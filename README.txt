@@ -1,5 +1,5 @@
 Для обучения НС: 
-1) Загузить в папки data/img_train и data/img_val по 1000 фотографий кошек и 1000 фотографий собак. Фото можно взять с сайта kaggle, архив "cats vs dogs"
+1) Загузить в папки data/img_train/(cats/dogs) и data/img_val/(cats/dogs) по 1000 фотографий кошек и 1000 фотографий собак. Фото можно взять с сайта kaggle, архив "cats vs dogs"
 2) запустить down_model.py 
 3) запустить top_model.py хватит 5 эпох
 4) запустить complete_model.py хватит 2 эпохи
